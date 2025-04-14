@@ -1,3 +1,13 @@
+## Author
+**[Durgesh Kumar Nishad]**  
+Intern - CODTECH IT SOLUTIONS  
+April 2025
+
+## License
+This project is developed for academic and internship learning purposes.
+
+
+
 # Basic ALU Design - Verilog
 
 ## Project Title
@@ -17,3 +27,21 @@ The ALU supports the following operations based on a 3-bit select line:
 | 100      | NOT (~A)         |
 
 ## File Structure
+
+alu_project/
+│
+├── src/
+│   └── alu.v                 # ALU module (Verilog code)
+│
+├── testbench/
+│   └── tb_alu.v              # Testbench to test ALU operations
+│
+├── simulation/
+│   ├── waveform.png          # (Optional) Screenshot of simulation waveform
+│   └── simulation_report.pdf # Simulation report with results
+│
+├── docs/
+│   └── certificate.pdf       # (Optional) Internship completion certificate
+│
+└── README.md                 # Project documentation
+
