@@ -45,3 +45,7 @@ alu_project/
 │
 └── README.md                 # Project documentation
 
+##Repective output Image 
+
+![Image](https://github.com/user-attachments/assets/80528723-425d-4dac-a22d-cf3d4ece3b26)
+
