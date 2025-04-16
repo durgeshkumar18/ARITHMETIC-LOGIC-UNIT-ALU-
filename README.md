@@ -16,6 +16,5 @@
 
 #OUTPUT 
 
-[ARITHMETIC-LOGIC-UNIT-ALU.pdf](https://github.com/user-attachments/files/19769446/ARITHMETIC-LOGIC-UNIT-ALU.pdf)
-
+![Image](https://github.com/user-attachments/assets/cbe3cf20-4496-42a0-bdfb-cb46af860770)
 
